@@ -1,4 +1,4 @@
-package fr.zizoa.apprendre;
+package fr.zizoa.apprendre.metier;
 
 public class FizzBuzz {
 

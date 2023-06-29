@@ -1,4 +1,4 @@
-package fr.zizoa.apprendre;
+package fr.zizoa.apprendre.metier;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
